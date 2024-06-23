@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Khai phá dữ liệu</folder>
+	<filename>09.jpg</filename>
+	<path>C:\Users\pc\Desktop\Khai phá dữ liệu\09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1232</xmin>
+			<ymin>1702</ymin>
+			<xmax>1428</xmax>
+			<ymax>1911</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Footwear</folder>
+	<filename>277.jpg</filename>
+	<path>C:\Users\pc\Pictures\Footwear\277.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>940</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>high heels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>310</ymin>
+			<xmax>611</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>high heels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>568</xmin>
+			<ymin>170</ymin>
+			<xmax>905</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

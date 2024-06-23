@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>366.jpg</filename>
+	<path>C:\Users\pc\Pictures\data\raw_data\images\366.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>882</width>
+		<height>882</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>high heels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>116</ymin>
+			<xmax>442</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>high heels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>151</ymin>
+			<xmax>750</xmax>
+			<ymax>798</ymax>
+		</bndbox>
+	</object>
+</annotation>

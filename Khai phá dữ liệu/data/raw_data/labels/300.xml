@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Khai phá dữ liệu</folder>
+	<filename>300.jpg</filename>
+	<path>C:\Users\pc\Desktop\Khai phá dữ liệu\300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1476</xmin>
+			<ymin>1623</ymin>
+			<xmax>1634</xmax>
+			<ymax>1840</ymax>
+		</bndbox>
+	</object>
+</annotation>

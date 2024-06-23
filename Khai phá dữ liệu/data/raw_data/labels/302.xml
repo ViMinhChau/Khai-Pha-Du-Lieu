@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>302.jpg</filename>
+	<path>C:\Users\pc\Pictures\data\raw_data\images\302.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>533</ymin>
+			<xmax>537</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>222</ymin>
+			<xmax>982</xmax>
+			<ymax>948</ymax>
+		</bndbox>
+	</object>
+</annotation>

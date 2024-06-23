@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Footwear</folder>
+	<filename>110.jpg</filename>
+	<path>C:\Users\pc\Pictures\Footwear\110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1022</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boots</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>9</ymin>
+			<xmax>1013</xmax>
+			<ymax>1485</ymax>
+		</bndbox>
+	</object>
+</annotation>

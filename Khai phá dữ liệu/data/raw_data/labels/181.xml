@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>181.jpg</filename>
+	<path>C:\Users\pc\Pictures\data\raw_data\images\181.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>274</ymin>
+			<xmax>976</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

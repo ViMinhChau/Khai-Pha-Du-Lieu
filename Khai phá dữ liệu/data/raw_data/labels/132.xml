@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>132.jpg</filename>
+	<path>C:\Users\pc\Pictures\data\raw_data\images\132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1013</width>
+		<height>1013</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flip_flops</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>92</ymin>
+			<xmax>660</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>
